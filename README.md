@@ -1,5 +1,5 @@
-hi
+hey
 <br>
-do you like men
+welcome to my stupid website
 <br>
-<b>Why am i asking this</b>
+hope you have fun ig
