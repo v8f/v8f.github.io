@@ -87,7 +87,7 @@ body {
 	font-size:100px;
 	position:relative;
 	top:20px;
-	color:rgb(65, 3, 41);
+	color:rgb(3, 64, 56);
 	font-weight:bolder;
 }
 .text-404 {
@@ -95,7 +95,7 @@ body {
 	position:relative;
 	top:5px;
 	font-weight:bold;
-	color:rgb(65, 3, 41);
+	color:rgb(3, 64, 56);
 	
 }
 .text-404 > span {
@@ -139,7 +139,7 @@ body {
 }
 
 .loader {
-	border: 20px solid rgb(65, 3, 41);
+	border: 20px solid rgb(3, 64, 56);
 	border-top: 20px solid rgb(4, 154, 149); 
 	border-radius: 50%;
 	width: 125px;
@@ -180,7 +180,7 @@ body {
 	text-decoration: none;
 	border: 0.67rem solid transparent;
 	text-decoration: none;
-	background-color:#fa1781;
+	background-color:#16faf3;
 	margin: 15px;
 	font-family:"Quicksand" !important;
 	margin-top:50px;
@@ -198,7 +198,7 @@ body {
 	left:50%;
 	transform: translate(-50%, -50%);
 	font-weight:bold;
-	color:rgb(65, 3, 41);
+	color:rgb(3, 64, 56);
 	text-align:center;
 	justify-content:center;
 	align-items: center;
@@ -269,7 +269,7 @@ button:hover {
 	background-color:transparent;
 	flex-direction: column;
 	align-items:center;
-	color:#fa0c97;
+	color:#16faf3;
 }
 .debug-subheader {
 	font-size:45px;
@@ -293,7 +293,7 @@ input, textarea {
 	font-size: 17px;
 	text-decoration: none;
 	border: 0.67rem solid transparent;
-	background-color:#e258a9;
+	background-color:#58d6e4;
 	outline:none;
 	margin:20px;
 	vertical-align: top;
