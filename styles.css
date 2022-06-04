@@ -140,7 +140,7 @@ body {
 
 .loader {
 	border: 20px solid rgb(65, 3, 41);
-	border-top: 20px solid rgb(153, 4, 41); 
+	border-top: 20px solid rgb(4, 154, 149); 
 	border-radius: 50%;
 	width: 125px;
 	height: 125px;
@@ -404,7 +404,7 @@ h {
 	
 	.loader {
 		border: 20px solid rgb(65, 3, 41);
-		border-top: 20px solid rgb(153, 4, 41); 
+		border-top: 20px solid rgb(4, 154, 149); 
 		border-radius: 50%;
 		width: 95px;
 		height: 95px;
@@ -488,7 +488,7 @@ h {
 	
 	.loader {
 		border: 20px solid rgb(65, 3, 41);
-		border-top: 20px solid rgb(153, 4, 41); 
+		border-top: 20px solid rgb(4, 154, 149); 
 		border-radius: 50%;
 		width: 75px;
 		height: 75px;
