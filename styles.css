@@ -23,7 +23,7 @@ html {
 	text-decoration: none;
 	border: 0.67rem solid transparent;
 	text-decoration: none;
-	background-color:#16f3fA;
+	background-color:#16f3fa;
 	transition: .2s ease-in-out 0s;
 	margin: 10px;
 }
@@ -114,7 +114,7 @@ body {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	background-color: #e00980;
+	background-color: #09e1e1;
 	width:450px;
 	height:375px;
 	border-radius:23px;
@@ -126,7 +126,7 @@ body {
 	font-size:65px;
 	position:relative;
 	top:60px;
-	color:rgb(65, 3, 41);
+	color:rgb(3, 64, 56);
 	font-weight:bold;
 }
 .loading-redirect {
@@ -134,7 +134,7 @@ body {
 	position:relative;
 	top:5px;
 	font-weight:bold;
-	color:rgb(65, 3, 41);
+	color:rgb(3, 64, 56);
 	
 }
 
@@ -305,7 +305,7 @@ input, textarea {
 }
 
 body {
-	background-color:rgb(211, 5, 74);
+	background-color:rgb(5, 212, 212);
 	/*background: url("src/bg.jpg");*/
 }
 h {
@@ -328,7 +328,7 @@ h {
 	text-decoration: none;
 	border: 0.67rem solid transparent;
 	text-decoration: none;
-	background-color:#fa1781;
+	background-color:#16faf3;
 	margin: 15px;
 	font-family:"Quicksand" !important;
 }
@@ -340,7 +340,7 @@ h {
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
-		background-color: #e00980;
+		background-color: #16faf3;
 		width:250px;
 		height:375px;
 		border-radius:23px;
@@ -352,7 +352,7 @@ h {
 		font-size:75px;
 		position:relative;
 		top:10px;
-		color:rgb(65, 3, 41);
+		color:rgb(3, 64, 56);
 		font-weight:bolder;
 	}
 	.text-404 {
@@ -360,7 +360,7 @@ h {
 		position:relative;
 		top:0px;
 		font-weight:bold;
-		color:rgb(65, 3, 41);
+		color:rgb(3, 64, 56);
 		
 	}
 	.text-404 > span {
@@ -403,7 +403,7 @@ h {
 	}
 	
 	.loader {
-		border: 20px solid rgb(65, 3, 41);
+		border: 20px solid rgb(3, 64, 56);
 		border-top: 20px solid rgb(4, 154, 149); 
 		border-radius: 50%;
 		width: 95px;
@@ -462,7 +462,7 @@ h {
 		top: 50%;
 		left: 50%;
 		transform: translate(-50%, -50%);
-		background-color: #e00980;
+		background-color: #16faf3;
 		width:450px;
 		height:200px;
 		border-radius:23px;
@@ -474,7 +474,7 @@ h {
 		font-size:45px;
 		position:relative;
 		top:10px;
-		color:rgb(65, 3, 41);
+		color:rgb(3, 64, 56);
 		font-weight:bold;
 	}
 	.loading-redirect {
@@ -482,7 +482,7 @@ h {
 		position:relative;
 		top:5px;
 		font-weight:bold;
-		color:rgb(65, 3, 41);
+		color:rgb(3, 64, 56);
 		
 	}
 	
